@@ -7,7 +7,7 @@ This is my portfolio files for my website <b> diegoborghgraef.be </b> It is stil
 - Home
 - Curriculum Vitae
 
-## Features that are not done:
+### Features that are not done:
 - Mobile friendly website
 - Contact Form send
 - Add all project pages
