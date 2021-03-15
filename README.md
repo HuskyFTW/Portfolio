@@ -12,6 +12,7 @@ This is my portfolio files for my website <b> diegoborghgraef.be </b> It is stil
 - Contact Form send
 - Add all project pages
 - Blogpost for Stage
+- Hold a blog of all the courses I follow + Notekeeping
 
 ![alt text](https://i.imgur.com/zd8024I.png)
 ![alt text](https://i.imgur.com/K7ngLYe.png)
